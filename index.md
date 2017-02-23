@@ -5,4 +5,4 @@ title: hello-jekyll
 
 # Hello 
 > jekyll!
-[kanquanwen] (/nm.md)
+[kanquanwen] (/:nm.md)
