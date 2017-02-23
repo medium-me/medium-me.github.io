@@ -1,5 +1,5 @@
 ---
-layout: mylayout
+theme: jekyll-theme-cayman
 title: hello-jekyll
 ---
 
